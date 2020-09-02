@@ -1,2 +1,3 @@
-Learning how to use git on linux
-Dummy 
+Learning how to use git GitHub 
+
+Learning GitHub branching strategies.
